@@ -1,6 +1,6 @@
 
 <div align="center">
-    <img src="/assets/heart_tunes_icon.svg">
+    <img src="assets/heart_tunes_icon.svg">
     <h3>Meet Heart Tunes</h3>
 </div>
 
